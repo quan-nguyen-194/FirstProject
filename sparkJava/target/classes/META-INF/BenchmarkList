@@ -1,0 +1,3 @@
+JMH S 20 HelloWolrd.BenchMark S 43 HelloWolrd.generated.BenchMark_init_jmhTest S 4 init S 11 AverageTime E A 1 1 1 E I 1 3 E E I 1 5 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 HelloWolrd.BenchMarkFinal S 48 HelloWolrd.generated.BenchMarkFinal_init_jmhTest S 4 init S 11 AverageTime E A 1 1 1 E I 1 3 E E I 1 5 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 20 GuavaCache.BenchMark S 43 GuavaCache.generated.BenchMark_init_jmhTest S 4 init S 11 AverageTime E A 1 1 1 E I 1 3 E E I 1 5 E E E E E E E E E U 12 MILLISECONDS E E 
